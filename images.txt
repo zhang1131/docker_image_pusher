@@ -11,3 +11,4 @@ mysql:8.0.39
 valkey/valkey:8
 infiniflow/ragflow:v0.22.1
 quay.io/minio/minio:RELEASE.2025-06-13T11-33-47Z
+infiniflow/ragflow:nightly
