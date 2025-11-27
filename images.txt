@@ -5,10 +5,10 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 
-elasticsearch:8.11.3
-infiniflow/infinity:v0.6.6
-mysql:8.0.39
-valkey/valkey:8
-infiniflow/ragflow:v0.22.1
-quay.io/minio/minio:RELEASE.2025-06-13T11-33-47Z
+--platform=linux/arm64 elasticsearch:8.11.3
+--platform=linux/arm64 infiniflow/infinity:v0.6.6
+--platform=linux/arm64 mysql:8.0.39
+--platform=linux/arm64 valkey/valkey:8
+--platform=linux/arm64 infiniflow/ragflow:v0.22.1
+--platform=linux/arm64 quay.io/minio/minio:RELEASE.2025-06-13T11-33-47Z
 infiniflow/ragflow:nightly
