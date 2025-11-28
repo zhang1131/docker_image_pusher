@@ -11,4 +11,4 @@
 #--platform=linux/arm64 valkey/valkey:8
 #--platform=linux/arm64 quay.io/minio/minio:RELEASE.2025-06-13T11-33-47Z
 #--platform=linux/arm64 infiniflow/ragflow:nightly
-ubuntu:22.04
+--platform=linux/arm64 ubuntu:22.04
