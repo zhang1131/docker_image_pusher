@@ -12,4 +12,4 @@
 #--platform=linux/arm64 quay.io/minio/minio:RELEASE.2025-06-13T11-33-47Z
 #--platform=linux/arm64 infiniflow/ragflow:nightly
 #--platform=linux/arm64 ubuntu:22.04
---platform=linux/arm64 infiniflow/ragflow:v0.24.0
+--platform=linux/arm64 infiniflow/ragflow:v0.23.1
