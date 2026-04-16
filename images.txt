@@ -15,4 +15,4 @@
 #--platform=linux/arm64 infiniflow/ragflow:v0.24.0
 #--platform=linux/arm64 infiniflow/ragflow:v0.24.0
 #couchdb:3.5
-marker-pdf:latest
+marker:latest
