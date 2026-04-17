@@ -15,4 +15,5 @@
 #--platform=linux/arm64 infiniflow/ragflow:v0.24.0
 #--platform=linux/arm64 infiniflow/ragflow:v0.24.0
 #couchdb:3.5
-xiaoyao9184/marker:latest
+#xiaoyao9184/marker:latest
+xiaoyao9184/marker:1.2.3
