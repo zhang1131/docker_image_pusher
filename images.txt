@@ -16,4 +16,7 @@
 #--platform=linux/arm64 infiniflow/ragflow:v0.24.0
 #couchdb:3.5
 #xiaoyao9184/marker:latest
-xiaoyao9184/marker:1.2.3
+#xiaoyao9184/marker:1.2.3
+--platform=linux/arm64 infiniflow/sandbox-executor-manager:latest
+--platform=linux/arm64 infiniflow/sandbox-base-python:latest
+--platform=linux/arm64 infiniflow/sandbox-base-nodejs:latest
