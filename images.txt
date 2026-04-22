@@ -13,10 +13,10 @@
 #--platform=linux/arm64 infiniflow/ragflow:nightly
 #--platform=linux/arm64 ubuntu:22.04
 #--platform=linux/arm64 infiniflow/ragflow:v0.24.0
-#--platform=linux/arm64 infiniflow/ragflow:v0.24.0
+-platform=linux/arm64 infiniflow/ragflow:v0.25.0
 #couchdb:3.5
 #xiaoyao9184/marker:latest
 #xiaoyao9184/marker:1.2.3
---platform=linux/arm64 infiniflow/sandbox-executor-manager:latest
---platform=linux/arm64 infiniflow/sandbox-base-python:latest
---platform=linux/arm64 infiniflow/sandbox-base-nodejs:latest
+#--platform=linux/arm64 infiniflow/sandbox-executor-manager:latest
+#--platform=linux/arm64 infiniflow/sandbox-base-python:latest
+#--platform=linux/arm64 infiniflow/sandbox-base-nodejs:latest
